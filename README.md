@@ -40,8 +40,12 @@
 ```javascript
 const grw = {
 
-  projects: discordBot: ("Puki")
- // PUKI PAUSED WILL RESUME SOON ^^
+  projects: {
+            
+               discordBot: "Puki"  // PUKI PAUSED WILL RESUME SOON ^^
+            
+             }
+
  
 }
 ```
