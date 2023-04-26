@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Grawty.Grawty&"  />
+  <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
 </div>
 
 ###
