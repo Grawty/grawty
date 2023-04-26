@@ -39,6 +39,7 @@
 const grw = {
 
   projects: discordBot: ("Puki")
-     // PROJECT PAUSED WILL RESUME SOON ^^
+ // PUKI PAUSED WILL RESUME SOON ^^
+ 
 }
 ```
