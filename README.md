@@ -38,7 +38,7 @@
 ```javascript
 const grw = {
 
-projects: puki: ("Discord")
+projects: discordBot: ("Puki")
 
 }
 ```
