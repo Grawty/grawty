@@ -1,4 +1,4 @@
-<h2 align="left">// grawty</h2>
+<h4 align="left">// grawty</h4>
 
 ###
 
@@ -27,6 +27,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/40/aa/20/40aa20845aef1e2cb19540c647aaad70.jpg"  />
 </div>
 
 ###
