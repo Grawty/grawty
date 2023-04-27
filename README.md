@@ -41,8 +41,9 @@
 const grw = {
 
   projects: {
-                 discordBot: "Puki"  
+                 discordBot: "Puki",  
                // PUKI PAUSED WILL RESUME SOON ^^
+                 HWIDspoofer: "X"
              }
 }
 ```
