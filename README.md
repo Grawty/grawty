@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Low-level programming</h3>
+<h3 align="left">Low-level developer</h3>
 
 ###
 
