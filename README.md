@@ -38,11 +38,13 @@
 ###
 
 ```javascript
+// PUKI PAUSED WILL RESUME SOON ^^
 const grw = {
-
   projects: {
-                 discordBot: "Puki"
-               // PUKI PAUSED WILL RESUME SOON ^^
-             }
-}
+  
+    discordBot: "Puki"
+    
+  }
+};
+
 ```
