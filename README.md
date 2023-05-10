@@ -37,6 +37,16 @@
 
 ###
 
+
+
+<img align="right" height="185" src=https://github.com/Grawty/grawty/assets/65622081/bce727da-b2da-433d-8c26-3e58e40e1db1 />
+
+
+
+###
+
+
+
 ```javascript
 // PUKI PAUSED WILL RESUME SOON ^^
 const grw = {
