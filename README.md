@@ -19,11 +19,6 @@
 </div>
 
 
-
-``` 
-                                                     Low-level Developer
-```
-
 ### Projects
 
 - Puki & puki.ai (Private Bot)
