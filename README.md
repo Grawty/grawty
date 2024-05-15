@@ -6,14 +6,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@grawty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitter.com/grwtysm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://youtube.com/@grawty"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://discord.gg/A8eeGzXgME"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://twitter.com/grwwty"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter"></a>
+</p>
 
 ###
 
@@ -21,36 +18,17 @@
   <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
 </div>
 
-###
-
-<h3 align="left">Low-level developer</h3>
-
-###
-
-<div align="left">
-   <img src="https://skillicons.dev/icons?i=js,py,nodejs,php,html,css,c,cpp,cs," height="32"   />
-</div>
-
-###
 
 
-
-<img align="right" height="185" src=https://github.com/Grawty/grawty/assets/65622081/bce727da-b2da-433d-8c26-3e58e40e1db1 />
-
-
-
-###
-
-
-
-```javascript
-// PUKI PAUSED WILL RESUME SOON ^^
-const grw = {
-  projects: {
-  
-    discordBot: "Puki"
-    
-  }
-};
-
+``` 
+                                                        Low-level Developer
 ```
+
+### Projects
+
+- Puki & puki.ai (Private Bot)
+- Linktr.ee Alternative
+- Twitch stream notification webhook.
+
+
+
