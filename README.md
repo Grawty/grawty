@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
+  <img src="https://count.getloli.com/get/@.grawty?theme=rule34"/>
 </div>
 
 
