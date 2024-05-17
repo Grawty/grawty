@@ -15,15 +15,13 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@.grawty?theme=rule34"/>
+  <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
 </div>
-
 
 ### Projects
 
 - Puki & puki.ai (Private Bot)
 - Linktr.ee Alternative
 - Twitch stream notification webhook.
-
 
 
