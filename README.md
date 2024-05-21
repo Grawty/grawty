@@ -18,11 +18,20 @@
   <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grawty&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
 ### Projects
 
 - Puki & puki.ai (Private Bot)
 - Linktr.ee Alternative
 - Twitch stream notification webhook.
-- Discord.py Stats Bot
+- discord.py Stats Bot
+
+ 
+
+
 
 
