@@ -23,5 +23,6 @@
 - Puki & puki.ai (Private Bot)
 - Linktr.ee Alternative
 - Twitch stream notification webhook.
+- Discord.py Stats Bot
 
 
