@@ -1,8 +1,6 @@
 <div align="center"><a href="https://linktr.ee/grawty"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE92CF&center=true&vCenter=true&width=435&lines=linktr.ee%2Fgrawty" alt="Typing SVG" /></a></div>
 
-<div align="center">
-  <img height="160" src="https://github.com/Grawty/grawty/assets/65622081/7868075e-0179-4f45-ba61-9f16ed680562"  />
-</div>
+
 
 ###
 
@@ -12,7 +10,6 @@
   <a href="https://twitter.com/grwwty"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter"></a>
 </p>
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Grawty/count.svg?"  />
@@ -25,12 +22,15 @@
 
 ### Projects
 
-- Puki & puki.ai (Private Bot)
+- puki.ai (Private Bot)
 - Linktr.ee Alternative
 - Twitch stream notification webhook.
 - discord.py Stats Bot
 
- 
+ <div align="center">
+  <img height="160" src="https://github.com/Grawty/grawty/assets/65622081/af064f51-22bb-48b9-a5e9-d48ec0cc7a96"  />
+</div>
+
 
 
 
