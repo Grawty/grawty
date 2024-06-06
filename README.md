@@ -28,7 +28,7 @@
 - discord.py Stats Bot
 
  <div align="center">
-  <img height="160" src="https://github.com/Grawty/grawty/assets/65622081/af064f51-22bb-48b9-a5e9-d48ec0cc7a96"  />
+  <a href="https://grawty.github.io"><img height="160" src="https://github.com/Grawty/grawty/assets/65622081/af064f51-22bb-48b9-a5e9-d48ec0cc7a96"  />
 </div>
 
 
